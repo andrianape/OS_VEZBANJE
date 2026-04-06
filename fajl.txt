@@ -1,0 +1,25 @@
+total 224
+drwxrwxr-x  3 vBoxuser vBoxuser  4096 Apr  6 19:46 .
+drwxr-x--- 21 vBoxuser vBoxuser  4096 Apr  6 11:16 ..
+-rwxrwxr-x  1 vBoxuser vBoxuser 16504 Apr  5 19:20 april2022
+-rwxrwxr-x  1 vBoxuser vBoxuser 16376 Apr  5 20:21 april20222z
+-rw-rw-r--  1 vBoxuser vBoxuser  1901 Apr  5 20:21 april20222z.c
+-rw-rw-r--  1 vBoxuser vBoxuser  1674 Apr  5 19:19 april2022.c
+-rw-rw-r--  1 vBoxuser vBoxuser     0 Apr  6 19:46 fajl.txt
+drwxrwxr-x  8 vBoxuser vBoxuser  4096 Apr  6 18:15 .git
+-rwxrwxr-x  1 vBoxuser vBoxuser 16432 Apr  5 22:22 jun20221
+-rw-rw-r--  1 vBoxuser vBoxuser   829 Apr  5 22:21 jun20221z.c
+-rw-rw-r--  1 vBoxuser vBoxuser    96 Apr  6 16:32 jun20222
+-rwxrwxr-x  1 vBoxuser vBoxuser 16592 Apr  6 16:30 jun20222z
+-rw-rw-r--  1 vBoxuser vBoxuser  1570 Apr  6 16:29 jun20222z.c
+-rwxrwxr-x  1 vBoxuser vBoxuser 15960 Apr  5 16:51 proBa
+-rw-rw-r--  1 vBoxuser vBoxuser    78 Apr  5 16:51 proBa.c
+-rwxrwxr-x  1 vBoxuser vBoxuser 16616 Apr  6 17:35 sept20201
+-rw-rw-r--  1 vBoxuser vBoxuser  1276 Apr  6 17:35 sept20201z.c
+-rwxrwxr-x  1 vBoxuser vBoxuser 16496 Apr  6 19:46 sept20202z
+-rw-rw-r--  1 vBoxuser vBoxuser  1331 Apr  6 19:45 sept20202z.c
+-rwxrwxr-x  1 vBoxuser vBoxuser 16320 Apr  5 21:15 sept20211
+-rw-rw-r--  1 vBoxuser vBoxuser   584 Apr  5 21:15 sept20211.c
+-rwxrwxr-x  1 vBoxuser vBoxuser 16416 Apr  5 21:35 sept20212
+-rw-rw-r--  1 vBoxuser vBoxuser   878 Apr  5 21:35 sept20212.c
+-rw-rw-r--  1 vBoxuser vBoxuser    19 Apr  5 22:16 ulaz.txt
