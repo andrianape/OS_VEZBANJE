@@ -1,0 +1,18 @@
+prva.txt:1:reci mi da ili ne
+druga.txt:1:brao
+prva.txt:2:cao cao
+druga.txt:2:brao
+prva.txt:3:hahahaha
+druga.txt:3:bravo
+prva.txt:4:da bre da
+druga.txt:4:bravo
+prva.txt:5:je l si to ti
+druga.txt:5:bravisimo
+prva.txt:6:andriana
+druga.txt:6:brao brate
+prva.txt:7:miisjodefj
+druga.txt:7:bro
+prva.txt:8:mihajlo
+druga.txt:8:brao
+prva.txt:9:emcheyyy
+druga.txt:9:brao
