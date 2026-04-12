@@ -1,0 +1,20 @@
+Prva.txt: 1:ti i ja nismo mogli
+Druga.txt: 2:cao 
+Prva.txt: 3:skupa
+Druga.txt: 4:kako si
+Prva.txt: 5:sve bilo je protiv nas 
+Druga.txt: 6:sta radis
+Prva.txt: 7:jedno drugog trazili smo
+Druga.txt: 8:nismo
+Prva.txt: 9:spas
+Druga.txt: 10:culi se 
+Prva.txt: 11:hohohohohoh
+Druga.txt: 12:odavno
+Prva.txt: 13:da bre da
+Druga.txt: 14:da li i ja tebi falim
+Prva.txt: 15:bravo brate moi
+Druga.txt: 16:ja na tebe mislim 
+Prva.txt: 17:sedi dole 5
+Druga.txt: 18:stalno
+Prva.txt: 19:lajlajlajlaj
+Druga.txt: 20:heheheheheheheheheh
